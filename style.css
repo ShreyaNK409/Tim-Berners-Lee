@@ -1,6 +1,7 @@
 body {
     text-align: center;
     padding-top: 800px;
+    
 }
 
 .profile {
@@ -69,7 +70,8 @@ h1 {
 #name {
     font-size: 30px;
     line-height: 1.2;
-    font-family: cursive
+    
+    font-family: 'Sriracha', cursive;
 }
 
 h2 {
