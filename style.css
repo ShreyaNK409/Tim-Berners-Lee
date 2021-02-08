@@ -1,7 +1,7 @@
 body {
     text-align: center;
     padding-top: 800px;
-    
+
 }
 
 .profile {
@@ -52,7 +52,20 @@ body {
 }
 
 .links:hover {
-    background-color: dodgerblue;
+
+    background-color: aqua;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
 }
 
 
@@ -70,7 +83,7 @@ h1 {
 #name {
     font-size: 30px;
     line-height: 1.2;
-    
+
     font-family: 'Sriracha', cursive;
 }
 
